@@ -1,0 +1,201 @@
+[
+    {
+        "img": "https://vignette.wikia.nocookie.net/marvel_dc/images/c/cc/Wonder_Woman_Vol_5_4_Textless.jpg/revision/latest?cb=20160810132845",
+        "superheroe": "Mujer Maravilla",
+        "identidad": "Diana de Themyscira",
+        "edad": "900 años",
+        "altura": "182",
+        "genero": "Femenino",
+        "descripcion": "Es la princesa Diana , la hija de Hipólita , Reina de las Amazonas , y Zeus. Se ofreció para dejar atrás su hogar de Themyscira y defender el mensaje de paz de las amazonas, luchando por la justicia y la igualdad"
+    },
+
+    {
+        "img": "https://vignette.wikia.nocookie.net/marvel_dc/images/a/a0/Aquaman_Vol_8_48_Textless_Variant.jpg/revision/latest?cb=20190519131903",
+        "superheroe": "Aquaman",
+        "identidad": "Arthur Curry",
+        "edad": "38 años",
+        "altura": "194",
+        "genero": "Masculino",
+        "descripcion": "Aventurero que es mitad humano y mitad atlante . Esto le da una variedad de poderes que incluyen fuerza sobrehumana, control telepático sobre la vida marina y la capacidad de sobrevivir tanto en el agua como en tierra. Pertenece a la familia real de la Atlántida , y normalmente actúa como su rey."
+    },
+
+    {
+        "img": "https://vignette.wikia.nocookie.net/marvel_dc/images/2/25/Hawkman_Vol_5_1_Textless.jpg/revision/latest?cb=20180613183242",
+        "superheroe": "Hawkman",
+        "identidad": "Carter Hall",
+        "edad": "Desconocido",
+        "altura": "185",
+        "genero": "Masculino",
+        "descripcion": "Es un vigilante alado que lucha contra el crimen usando un arnés de vuelo hecho de metal Nth y una maza ."
+    },
+
+    {
+        "img": "https://vignette.wikia.nocookie.net/marvel_dc/images/5/56/Green_Lantern_Vol_5_44_Textless_Green_Lantern_75th_Anniversary_Variant.jpg/revision/latest?cb=20150902221809",
+        "superheroe": "Linterna Verde",
+        "identidad": "Alan Ladd Wllington Scott",
+        "edad": "31 años",
+        "altura": "180",
+        "genero": "Masculino",
+        "descripcion": "Es un joven ingeniero que más tarde se convirtió en el primer Green Lantern del mundo y miembro de la Justice Society of America ."
+    },
+
+    {
+        "img": "https://vignette.wikia.nocookie.net/marvel_dc/images/c/c3/Cyborg_0001.jpg/revision/latest?cb=20130704172041",
+        "superheroe": "Cyborg",
+        "identidad": "Victor Stone",
+        "edad": "35 años",
+        "altura": "198",
+        "genero": "Masculino",
+        "descripcion": "Victor Stone es un Cyborg . Mantenido vivo gracias al enchapado de Prometheum y las mejoras cibernéticas, temía convertirse en un paria, hasta que encontró una nueva familia: los Teen Titans ."
+    },
+
+    {
+        "img": "https://pngimage.net/wp-content/uploads/2018/05/batgirl-png-7.png",
+        "superheroe": "Batgirl",
+        "identidad": "Barbara Gordon",
+        "edad": "27 años",
+        "altura": "169",
+        "genero": "Femenino",
+        "descripcion": "Batgirl o Batichica es el nombre de varias superheroínas ficticias que aparecen en los cómics estadounidenses publicados por DC Comics, representados como contrapartes femeninas del superhéroe Batman."
+    },
+
+    {
+        "img": "https://vignette.wikia.nocookie.net/marvel_dc/images/0/06/Edward_O%27Brian_BTBATB_001.png/revision/latest?cb=20110525091342",
+        "superheroe": "Plastic Man",
+        "identidad": "Patrick O'Brian",
+        "edad": "Desconocido, 79 años desde su creacion",
+        "altura": "184",
+        "genero": "Masculino",
+        "descripcion": "Un ex ladrón y delincuente de poca monta que tiene el poder de estirar y doblar su cuerpo en cualquier forma imaginable."
+    },
+
+    {
+        "img": "https://vignette.wikia.nocookie.net/marvel_dc/images/a/a6/Batman_Vol_2_2_Variant_Textless.jpg/revision/latest?cb=20120228075313",
+        "superheroe": "Batman",
+        "identidad": "Bruce Thomas Wayne",
+        "edad": "40 años",
+        "altura": "188",
+        "genero": "Masculino",
+        "descripcion": "Es el protector de superhéroes de Gotham City , un hombre vestido como un murciélago que lucha contra el mal y ataca el terror en los corazones de los criminales en todas partes. En su identidad secreta es Bruce Wayne , industrial multimillonario y notorio playboy. Aunque no tiene poderes sobrehumanos, es uno de los hombres más inteligentes y mejores luchadores del mundo. Su destreza física e ingenio técnico lo convierten en un oponente increíblemente peligroso."
+    },
+
+    {
+        "img": "https://vignette.wikia.nocookie.net/marvel_dc/images/4/49/Martian_Manhunter_Vol_5_1_Textless_Variant.jpg/revision/latest?cb=20181205234853",
+        "superheroe": "Martian Manhunter",
+        "identidad": "J'onn J'onzz",
+        "edad": "320 años (si estuviera vivo en la actualidad)",
+        "altura": "200",
+        "genero": "Masculino",
+        "descripcion": "J'onn J'onzz es el Marciano Manhunter , uno de los últimos sobrevivientes del planeta Marte que vino a la Tierra en busca de justicia y paz."
+    },
+
+    {
+        "img": "https://vignette.wikia.nocookie.net/marvel_dc/images/2/29/Green_Arrow_Vol_6_1_Textless_Variant.jpg/revision/latest?cb=20160617025432",
+        "superheroe": "Green Arrow",
+        "identidad": "Oliver Queen",
+        "edad": "34 años",
+        "altura": "178",
+        "genero": "Masculino",
+        "descripcion": "Un vigilante que usa un arco y una flecha para combatir el crimen a nivel de la calle, mientras defiende los valores socialmente liberales"
+    },
+
+    {
+        "img": "https://vignette.wikia.nocookie.net/marvel_dc/images/6/61/Shazam%21_Vol_3_1_Textless_Variant.jpg/revision/latest?cb=20181205234924",
+        "superheroe": "Shazam",
+        "identidad": "William Batson",
+        "edad": "14 años",
+        "altura": "162 (187 forma adulta)",
+        "genero": "Masculino",
+        "descripcion": "Un joven héroe habilitado con los dones de dioses antiguos por el mago."
+    },
+
+    {
+        "img": "https://vignette.wikia.nocookie.net/marvel_dc/images/7/74/Flash_0006.jpg/revision/latest?cb=20120215162619",
+        "superheroe": "Flash",
+        "identidad": "Bartholomew Henry Allen",
+        "edad": "254 años",
+        "altura": "182",
+        "genero": "Masculino",
+        "descripcion": "El hombre más rápido del mundo. Usando sus poderes de súper velocidad , aprovecha la Speed ​​Force y se convierte en un luchador contra el crimen disfrazado. Es miembro fundador de la Liga de la Justicia ."
+    },
+
+    {
+        "img": "https://vignette.wikia.nocookie.net/death-battle-en-espanol/images/8/8a/Nightwing.png/revision/latest/scale-to-width-down/340?cb=20181015202836&path-prefix=es",
+        "superheroe": "Nightwing",
+        "identidad": "Dick Grayson",
+        "edad": "27 años",
+        "altura": "178",
+        "genero": "Masculino",
+        "descripcion": "Richard John Dick Grayson, es un personaje ficticio perteneciente a la editorial DC Comics. Creado por Bob Kane y Bill Finger y el ilustrador Jerry Robinson"
+    },
+
+    {
+        "img": "https://vignette.wikia.nocookie.net/death-battle-fanon-wiki-en-espanol/images/d/da/Red_hood.png/revision/latest/scale-to-width-down/310?cb=20190707203556&path-prefix=es",
+        "superheroe": "Red Hood",
+        "identidad": "Jason Todd",
+        "edad": "22 años",
+        "altura": "183",
+        "genero": "Masculino",
+        "descripcion": "Red Hood Es un alias que han portado varías personajes ficticios del Universo DC, enemigo de Batman y aparecido por primera vez en la historia El Hombre tras la Capucha Roja escrita por Bill Finger. "
+    },
+
+    {
+        "img": "https://vignette.wikia.nocookie.net/teenstitans/images/6/66/Raven.png/revision/latest/scale-to-width-down/310?cb=20180812164625&path-prefix=es",
+        "superheroe": "Raven",
+        "identidad": "Raven",
+        "edad": "16 años",
+        "altura": "165",
+        "genero": "Femenino",
+        "descripcion": "Raven es una superheroína ficticia que aparece en los cómics estadounidenses publicados por DC Comics. El personaje apareció por primera vez en un inserto especial en DC Comics Presents # 26, y fue creado por el escritor Marv Wolfman y el artista George Pérez."
+    },
+
+    {
+        "img": "https://pngriver.com/wp-content/uploads/2018/04/Download-Hawkgirl-PNG-Photo.png",
+        "superheroe": "Hawk Girl",
+        "identidad": "Shiera Sanders",
+        "edad": "27 años",
+        "altura": "181",
+        "genero": "Femenino",
+        "descripcion": "Chica Halcón es el nombre de varias superheroínas ficticias, Alienígenas que aparecen en los cómics estadounidenses publicados por DC Comics. La primera Chica Halcón, Shiera Sanders Hall, fue creada por el escritor Gardner Fox y el artista Dennis Neville y apareció por primera vez en Flash Comics #1."
+    },
+
+    {
+        "img": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8e4c3336-0621-4c1d-ad77-dee35d7a12d2/dd0ur6d-8e3e0bfe-d357-4ece-854d-fec664edda05.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvOGU0YzMzMzYtMDYyMS00YzFkLWFkNzctZGVlMzVkN2ExMmQyXC9kZDB1cjZkLThlM2UwYmZlLWQzNTctNGVjZS04NTRkLWZlYzY2NGVkZGEwNS5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.Uyx4hBP-pTpqxImFf0aPWhwKbCcGUAuhpGK7CzVxE4s",
+        "superheroe": "Dr. Destino",
+        "identidad": "Kent Nelson",
+        "edad": "27 años",
+        "altura": "187",
+        "genero": "Masculino",
+        "descripcion": "Doctor Fate —conocido en español como el Doctor Destino— es un personaje creado por la editorial DC Comics caracterizado por sus poderes mágicos, y uno de los fundadores de la Sociedad de la Justicia de América."
+    },
+
+    {
+        "img": "https://freepngimg.com/thumb/flash/20898-5-kid-flash-transparent.png",
+        "superheroe": "Kid flash",
+        "identidad": "Wally West",
+        "edad": "16 años",
+        "altura": "187",
+        "genero": "Masculino",
+        "descripcion": "Wallace Rudolph Wally West, conocido popularmente como Wally West, es un personaje ficticio, que aparece en las publicaciones de DC Comics."
+    },
+
+    {
+        "img": "https://www.pngkit.com/png/full/319-3191210_damian-wayne-render-super-sons-jorge-jimenez-covers.png",
+        "superheroe": "Robin",
+        "identidad_secreta": "Damian Wayne",
+        "edad": "13 años",
+        "altura": "158",
+        "genero": "Masculino",
+        "descripcion": "Damian Wayne, es un personaje de ficción creado por DC Comics dentro del mundo del justiciero enmascarado llamado Batman. Damian es hijo biológico de Talia al Ghul y Bruce Wayne. Fue creado por Grant Morrison y apareció por primera vez en Batman N.º 655."
+    },
+
+    {
+        "img": "https://i.pinimg.com/originals/93/36/ca/9336cac3bdf0d118df90bc1ac2bf06a8.png",
+        "superheroe": "Superman",
+        "identidad": "Clark Kent",
+        "edad": "30 años",
+        "altura": "186",
+        "genero": "Masculino",
+        "descripcion": "Superman (cuyo nombre kryptoniano es Kal-El y su nombre terrestre es Clark Kent) es un personaje ficticio, un superhéroe de los cómics que aparece en las publicaciones de DC Comics."
+    }
+]
